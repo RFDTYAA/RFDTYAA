@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=8be9fd&center=true&vCenter=true&width=700&lines=Hello+Everybody+%F0%9F%91%8B+I'm+RFDTYAA!;Welcome+to+my+GitHub+Profile!;It's+never+too+late!" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FAA627&background=80643500&center=true&vCenter=true&width=700&lines=Hello+Everybody+%F0%9F%91%8B+I'm+RFDTYAA!;Welcome+to+my+GitHub+Profile!;It's+never+too+late!)](https://git.io/typing-svg)
 
 ---
 
@@ -47,4 +45,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-rafi-aditya-5a3a22228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rafi-aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/_rafiaditya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rafiaditya_" height="30" width="40" /></a>
+<a href="https://x.com/RFDTYAA_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RFDTYAA_97" height="30" width="40" /></a>
 </p>
